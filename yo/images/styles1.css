@@ -1,6 +1,7 @@
 body{margin:0;
   font-family: 'Montserrat', sans-serif;
   color: #40514E;
+  background-color: #E4F9F5;
 }
 h1{margin: 50 auto 0 ;
 font-family: 'Indie Flower', cursive;
@@ -25,9 +26,8 @@ text-decoration: none;}
 .Top-container {background-color: #E4F9F5;
   position: relative;
   padding-top: 8%;
-  padding-bottom: 30%;
-  margin-bottom: 10%;
-}
+  padding-bottom: 7.5%;}
+
 .Middle-container{margin: 100px 0
 
 }
